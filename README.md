@@ -1,2 +1,2 @@
 # HTML
-COMP1045-02 Labs
+COMP1002-02 Labs
